@@ -52,3 +52,9 @@ This is v0.0.6
 **website** [cirlorm.dev](https://cirlorm.dev)
 
 **Enjoy!**
+
+/*****************************Not show option *******************/
+-Add more phone screens
+- Add screenshot functionality
+- Add screen recored functionlity
+- mobile view screen out of pc screen
